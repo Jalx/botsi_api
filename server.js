@@ -18,7 +18,7 @@ router.get('/luck', function(req, res){
 });
 
 router.get('/:id', function(req, res){
-    res.json({message: req.params.id});
+    res.json({message: 'Hola ' + req.params.id});
 });
 
 app.use('/api', router);
