@@ -1,14 +1,22 @@
 {   
-    "user": [
+    "users": [
         {
-        "id": 1,
-        "firstName": "Joe",
-        "lastName": "Smith"
+            "id": 1,
+            "firstName": "Toño",
+            "lastName": "Smith",
+            "gay": true
         },
         {
             "id": 2,
-            "firstName": "Joe",
-            "lastName": "Smith"
+            "firstName": "Alex",
+            "lastName": "Guzmán",
+            "gay": false
+        },
+        {
+            "id": 3,
+            "firstName": "Suzy",
+            "lastName": "Rzrs",
+            "gay": false
         }
     ]
 }
