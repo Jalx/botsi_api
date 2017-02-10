@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Jalx/botsi_api/issues"
   },
-  "homepage": "https://github.com/Jalx/botsi_api#readme"
+  "homepage": "https://github.com/Jalx/botsi_api#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
 }
