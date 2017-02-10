@@ -1,0 +1,2 @@
+var products = require('./products');
+
