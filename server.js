@@ -4,9 +4,9 @@ var bodyParser = require('body-parser');
 
 /*router*/
 var users = require('./app/routes/users');
-var products = require('./app/routes/products');
-var courses = require('./app/routes/courses');
-var packages = require('./app/routes/packages');
+var products = require('./app/routes/productos');
+var courses = require('./app/routes/cursos');
+var packages = require('./app/routes/paquetes');
 /*router*/
 
 app.use(bodyParser.urlencoded({ extended: true }));

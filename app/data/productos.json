@@ -1,0 +1,91 @@
+{
+    "products": [
+        {
+            "id" : 1,
+            "name" : "Tubo PVC",
+            "marca" : "Durma",
+            "description" : "tubo pvc 2 pulgadas",
+            "keywords" : ["tubo"],
+            "color": "blanco",
+            "precio" : 2,
+            "existencia" : 200
+        },
+        {
+            "id" : 2,
+            "name" : "Carritilla",
+            "marca" : "Imacasa",
+            "description" : "Carritilla Imacasa",
+            "keywords" : ["carretilla", "Carritilla"],
+            "color": "",
+            "tamanio": "",
+            "precio" : 36,
+            "existencia" : 25
+        },
+        {
+            "id" : 3,
+            "name" : "Tubo PVC",
+            "marca" : "Durma",
+            "description" : "tubo pvc 2 pulgadas",
+            "keywords" : ["tubo"],
+            "tamanio": "2 pulgadas",
+            "color": "blanco",
+            "precio" : 6.50,
+            "existencia" : 200
+        },
+        {
+            "id" : 4,
+            "name" : "Hierro",
+            "marca" : "Corinca",
+            "description" : "tubo pvc 2 pulgadas",
+            "keywords" : ["tubo"],
+            "color": "",
+            "tamanio": "2 pulgadas",
+            "precio" : 38,
+            "existencia" : 100
+        },
+        {
+            "id" : 5,
+            "name" : "Codo PVC",
+            "marca" : "Durma",
+            "description" : "tubo pvc 1/2 pulgadas",
+            "keywords" : ["tubo", "codo", "pvc"],
+            "color": "blanco",
+            "tamanio": "",
+            "precio" : 0.25,
+            "existencia" : 200
+        },
+        {
+            "id" : 6,
+            "name" : "Cemento Cemex",
+            "marca" : "Cemex",
+            "description" : "Cemento cemex",
+            "keywords" : ["cemento", "cemex"],
+            "color": "",
+            "tamanio": "",
+            "precio" : 8.25,
+            "existencia" : 600
+        },
+        {
+            "id" : 7,
+            "name" : "Cemento Holcim",
+            "marca" : "Holcim",
+            "description" : "Cemento holcim",
+            "keywords" : ["cemento", "holcim"],
+            "color": "",
+            "tamanio": "",
+            "precio" : 8.50,
+            "existencia" : 800
+        },
+        {
+            "id" : 8,
+            "name" : "Barril Contenedor",
+            "marca" : "Holcim",
+            "description" : "Barril Contenedor de Agua Lata",
+            "keywords" : ["cemento", "holcim"],
+            "color": "",
+            "tamanio": "",
+            "precio" : 12,
+            "existencia" : 800
+        }
+    ]
+}
