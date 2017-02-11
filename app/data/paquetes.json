@@ -6,7 +6,7 @@
             "marca": "anker",
             "keywords": ["usb", "anker", "cable", "paquete"],
             "description" : "Anker 5 Pack",
-            "url": "https://www.amazon.com/gp/product/B015XPQ5KK",
+            "urlItem": "https://www.amazon.com/gp/product/B015XPQ5KK",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -17,7 +17,7 @@
             "marca": "sony",
             "keywords": ["audifonos", "sony"],
             "description" : "sony audifonos",
-            "url": "https://www.amazon.com/gp/product/B00UC9QKQ2",
+            "urlItem": "https://www.amazon.com/gp/product/B00UC9QKQ2",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -28,9 +28,9 @@
             "marca": "samsung",
             "keywords": ["sd", "memoria", "micro", "samsung", "microsd"],
             "description" : "Samsung Micro SD 32gb",
-            "url": "https://www.amazon.com/gp/product/B00IVPU786",
-            "statusESA": true,
-            "statusUSA": false,
+            "urlItem": "https://www.amazon.com/gp/product/B00IVPU786",
+            "statusESA": false,
+            "statusUSA": true,
             "entregado": false
         },
         {
@@ -39,7 +39,7 @@
             "marca": "f-dorla",
             "keywords": ["Power", "Powerbank", "PowerBand", "cargador"],
             "description" : "Power Bank Solar",
-            "url": "https://www.amazon.com/gp/product/B01G8O1UIC",
+            "urlItem": "https://www.amazon.com/gp/product/B01G8O1UIC",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -50,7 +50,7 @@
             "marca": "ELEGIANT",
             "keywords": ["proyector", "miniproyector", "elegian"],
             "description" : "Mini Projector ELEGIANT",
-            "url": "https://www.amazon.com/gp/product/B01G8O1UIC",
+            "urlItem": "https://www.amazon.com/gp/product/B01G8O1UIC",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -61,7 +61,7 @@
             "marca": "Dulces",
             "keywords": ["dulces", "Jelly"],
             "description" : "Jelly Bean",
-            "url": "https://www.amazon.com/gp/product/B017KQSD7S",
+            "urlItem": "https://www.amazon.com/gp/product/B017KQSD7S",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -72,7 +72,7 @@
             "marca": "Samsung",
             "keywords": ["celular", "telefono", "cell", "phone", "galaxy"],
             "description" : "Galaxy S5",
-            "url": "https://www.amazon.com/gp/product/B01CS5EBYU",
+            "urlItem": "https://www.amazon.com/gp/product/B01CS5EBYU",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -83,7 +83,7 @@
             "marca": "Dell",
             "keywords": ["teclado", "teclado dell", "dell"],
             "description" : "Teclado Dell",
-            "url": "https://www.amazon.com/gp/product/B01CS5EBYU",
+            "urlItem": "https://www.amazon.com/gp/product/B01CS5EBYU",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -94,7 +94,7 @@
             "marca": "valvula",
             "keywords": ["valvula"],
             "description" : "valvula",
-            "url": "http://www.ebay.com/itm/262213520225",
+            "urlItem": "http://www.ebay.com/itm/262213520225",
             "statusESA": false,
             "statusUSA": true,
             "entregado": false
@@ -105,7 +105,7 @@
             "marca": "Sony",
             "keywords": ["juego", "ps4"],
             "description" : "Kingdom Hearts",
-            "url": "https://www.amazon.com/gp/product/B01LYEQNHP",
+            "urlItem": "https://www.amazon.com/gp/product/B01LYEQNHP",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -116,7 +116,7 @@
             "marca": "Boligrafo",
             "keywords": ["lapicero", "boligrafo", "clasico"],
             "description" : "Boligrafo Negro Clasico",
-            "url": "http://www.ebay.com/itm/272417938742",
+            "urlItem": "http://www.ebay.com/itm/272417938742",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -127,7 +127,7 @@
             "marca": "Lacoste",
             "keywords": ["locion", "colonia", "lacoste"],
             "description" : "Eau Lacoste Blanc Energized",
-            "url": "http://www.ebay.com/itm/361804162006",
+            "urlItem": "http://www.ebay.com/itm/361804162006",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -138,7 +138,7 @@
             "marca": "Fossil",
             "keywords": ["reloj", "fossil"],
             "description" : "Reloj de pulsera Fossil Para Hombre Cronógrafo Deportivo",
-            "url": "http://www.ebay.com/itm/361804162006",
+            "urlItem": "http://www.ebay.com/itm/361804162006",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -149,7 +149,7 @@
             "marca": "Zmodo",
             "keywords": ["camaras", "set"],
             "description" : "Zmodo 720p HD Wireless Home Surveillance Camera System",
-            "url": "https://www.amazon.com/gp/product/B01LBJ82A8",
+            "urlItem": "https://www.amazon.com/gp/product/B01LBJ82A8",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
@@ -160,7 +160,7 @@
             "marca": "dtech",
             "keywords": ["cargador", "power", "wiiu"],
             "description" : "DTCH Power Supply Universal 100 - 240V AC Adapter for Wii U",
-            "url": "https://www.amazon.com/gp/product/B00UDJJR3O",
+            "urlItem": "https://www.amazon.com/gp/product/B00UDJJR3O",
             "statusESA": true,
             "statusUSA": false,
             "entregado": false
